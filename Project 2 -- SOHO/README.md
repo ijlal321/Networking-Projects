@@ -133,4 +133,4 @@ The network topology has been thoroughly tested and verified to ensure proper fu
 The implemented network design successfully meets the requirements of XYZ company's branch office, providing efficient connectivity and communication for the Admin/IT, Finance/HR, and Customer service/Reception departments. The network design adheres to industry best practices and ensures scalability for future growth.
 
 #### GitHub Repository
-For the Packet Tracer file and further details, please refer to the GitHub repository [link to be inserted].
+For the Packet Tracer file and further details, please refer to the GitHub repository [[link to be inserted](https://github.com/ijlal321/Networking-Projects/tree/main)https://github.com/ijlal321/Networking-Projects/tree/main].
