@@ -1,6 +1,6 @@
-### Design and Implementation of a Small Office Home Office Network (Project #2)
+# Design and Implementation of a Small Office Home Office Network (Project #2)
 
-#### Overview
+### Overview
 This project entails the design and implementation of a network for XYZ company's branch office located near the village of Bonalbo, Eastern Australia. The company specializes in the buying and selling of food items and is experiencing rapid growth with over 2 million customers globally. The network for the branch office needs to be designed separately from the headquarters and should accommodate the following requirements:
 
 - Utilization of one Cisco router and one Cisco switch.
@@ -10,7 +10,7 @@ This project entails the design and implementation of a network for XYZ company'
 - Automatic acquisition of IPv4 addresses for host devices.
 - Seamless communication between devices in all departments.
 
-#### Technologies Implemented
+## Technologies Implemented
 1. **Creating a Simple Network using a Router and Access Layer Switch:** Utilized Cisco router and switch to establish the network infrastructure.
 2. **Connecting Networking Devices with Correct Cabling:** Employed appropriate cabling techniques to ensure proper connectivity between devices.
 3. **Creating VLANs and Assigning Ports VLAN Numbers:** Configured VLANs to segregate network traffic for different departments and assigned VLAN IDs to switch ports accordingly.
