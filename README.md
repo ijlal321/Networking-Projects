@@ -7,10 +7,11 @@ Welcome to my Networking Projects Repository! This repository hosts a collection
 
 ## Projects
 ### Current and Upcomming Projects
-- **Company Network Design:** A comprehensive network design for a corporate environment, including routers, switches, servers, and security devices.
+- **SOHO Network:** Setting up office network with different departments, Each department with its own network using a single switch and a router .
 - **Hotel Wi-Fi Network:** Design and implementation of a Wi-Fi network for a hotel, ensuring coverage and performance for guests and staff.
-- **School LAN Setup:** Setting up a Local Area Network (LAN) for a school, including classrooms, administrative offices, and a library.
-- **Home Network Configuration:** Configuring a home network with multiple devices, ensuring connectivity and security for household members.
+- **Simple home Network:** Configuring a home network with multiple devices, ensuring connectivity and security for household members.
+- **Company Network Design(Upcomming):** A comprehensive network design for a corporate environment, including routers, switches, servers, and security devices.
+
 
 
 ## Getting Started
